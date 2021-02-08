@@ -5,4 +5,5 @@ alias gitfp='git fetch --all && git pull'
 
 #bash
 alias psmy='ps uxf'
+alias ll='ls -lh'
 alias la='ll -a'
